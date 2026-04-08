@@ -1,0 +1,1 @@
+salario = float(input("Olá, informe seu salario  "))
